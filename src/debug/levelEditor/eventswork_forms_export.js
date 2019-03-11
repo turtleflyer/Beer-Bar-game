@@ -1,4 +1,4 @@
-import EventsWork from '../../libs/eventswork';
+import EventsWork from 'drama-core';
 
 const {
   RoleSet,

@@ -6,7 +6,7 @@ import {
   RoleSet,
   waitWhenTypeExhausted,
   setActionOnAddElement,
-} from './eventswork';
+} from 'drama-core';
 
 defineRoutine({
   interpretTarget: e => e.node,

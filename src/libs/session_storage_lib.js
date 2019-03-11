@@ -1,4 +1,4 @@
-import { RoleSet, setActionOnAddElement } from './eventswork';
+import { RoleSet, setActionOnAddElement } from 'drama-core';
 
 /* eslint-env browser */
 const xhr = new XMLHttpRequest();

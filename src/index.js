@@ -1,5 +1,5 @@
+import { waitWhenTypeExhausted } from 'drama-core';
 import { whenAllURLRetrieved } from './libs/session_storage_lib';
-import { waitWhenTypeExhausted } from './libs/eventswork';
 import { startLevel } from './stage/level_starter';
 import './stage/stage_roles';
 import './stage/role_classes';

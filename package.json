@@ -40,5 +40,8 @@
     "webpack-dev-server": "^3.2.0",
     "webpack-merge": "^4.2.1",
     "worker-loader": "^2.0.0"
+  },
+  "dependencies": {
+    "drama-core": "0.0.1"
   }
 }
