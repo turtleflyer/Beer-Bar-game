@@ -1,5 +1,6 @@
 {
   "name": "Beer-Bar-game",
+  "private": true,
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -42,6 +43,6 @@
     "worker-loader": "^2.0.0"
   },
   "dependencies": {
-    "drama-core": "0.0.1"
+    "drama-core": "0.0.2"
   }
 }
