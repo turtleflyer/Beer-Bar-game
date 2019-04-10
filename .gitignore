@@ -1,8 +1,0 @@
-node_modules
-.vscode
-package-lock.json
-old-src
-log.txt
-.history
-design_edit/Backup_of_*.cdr
-dist

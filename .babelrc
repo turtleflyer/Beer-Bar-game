@@ -1,9 +1,0 @@
-{
-  "sourceMap": "inline",
-  "retainLines": true,
-  "env": {
-    "test": {
-      "presets": [["env", { "targets": { "node": true } }]]
-    }
-  }
-}
